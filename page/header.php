@@ -74,6 +74,9 @@
                         <li>
                             <a href="mang-trans.php"> Manage transaction</a>
                         </li>
+                        <li>
+                            <a href="report.php"> Report</a>
+                        </li>
                     </ul>
                     <!-- /.nav-second-level -->
                 </li>
